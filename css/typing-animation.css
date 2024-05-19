@@ -1,0 +1,197 @@
+#home .typing::after {
+  content: "|";
+  animation: typing 8s infinite;
+}
+@keyframes typing {
+  0%,
+  12% {
+    content: "Larry Daniels|";
+  }
+  13% {
+    content: "Larry Daniel|";
+  }
+  14% {
+    content: "Larry Danie|";
+  }
+  15% {
+    content: "Larry Dani|";
+  }
+  16% {
+    content: "Larry Dan|";
+  }
+  17% {
+    content: "Larry Dan|";
+  }
+  18% {
+    content: "Larry Da|";
+  }
+  19% {
+    content: "Larry D|";
+  }
+  20% {
+    content: "Larry |";
+  }
+  21% {
+    content: "Larry|";
+  }
+  22% {
+    content: "Larr|";
+  }
+  23% {
+    content: "Lar|";
+  }
+  24% {
+    content: "La|";
+  }
+  25% {
+    content: "l|";
+  }
+  26% {
+    content: "|";
+  }
+  27% {
+    content: "D|";
+  }
+  28% {
+    content: "De|";
+  }
+  29% {
+    content: "Dev|";
+  }
+  30% {
+    content: "Deve|";
+  }
+  31% {
+    content: "Devel|";
+  }
+  32% {
+    content: "Develo|";
+  }
+  33% {
+    content: "Develop|";
+  }
+  34% {
+    content: "Develope|";
+  }
+  35%,
+  48% {
+    content: "Developer|";
+  }
+  49% {
+    content: "Develope|";
+  }
+  50% {
+    content: "Develop|";
+  }
+  51% {
+    content: "Develo|";
+  }
+  52% {
+    content: "Devel|";
+  }
+  53% {
+    content: "Deve|";
+  }
+  54% {
+    content: "Dev|";
+  }
+  55% {
+    content: "De|";
+  }
+  56% {
+    content: "D|";
+  }
+  57% {
+    content: "|";
+  }
+  58% {
+    content: "D|";
+  }
+  59% {
+    content: "De|";
+  }
+  60% {
+    content: "Des|";
+  }
+  61% {
+    content: "Desi|";
+  }
+  62% {
+    content: "Desig|";
+  }
+  63% {
+    content: "Design|";
+  }
+  64% {
+    content: "Designe|";
+  }
+  65%,
+  78% {
+    content: "Designer|";
+  }
+  79% {
+    content: "Designe|";
+  }
+  80% {
+    content: "Design|";
+  }
+  81% {
+    content: "Desig|";
+  }
+  82% {
+    content: "Desi|";
+  }
+  83% {
+    content: "Des|";
+  }
+  84% {
+    content: "De|";
+  }
+  85% {
+    content: "D|";
+  }
+  86% {
+    content: "|";
+  }
+
+  87% {
+    content: "L|";
+  }
+  88% {
+    content: "La|";
+  }
+  89% {
+    content: "Lar|";
+  }
+  90% {
+    content: "Larr|";
+  }
+  91% {
+    content: "Larry|";
+  }
+  92% {
+    content: "Larry |";
+  }
+  93% {
+    content: "Larry D|";
+  }
+  94% {
+    content: "Larry Da|";
+  }
+  95% {
+    content: "Larry Dan|";
+  }
+  96% {
+    content: "Larry Dani|";
+  }
+  97% {
+    content: "Larry Danie|";
+  }
+  98% {
+    content: "Larry Daniel|";
+  }
+  99%,
+  100% {
+    content: "Larry Daniels|";
+  }
+}
